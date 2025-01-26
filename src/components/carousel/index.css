@@ -1,0 +1,209 @@
+.carousel-heading{
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+    color: #887C68;
+    text-align: center;
+}
+.carousel-image{
+    width: 250px;
+    height: 335.23px;
+    top: 3494.8px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(180.21deg, rgba(255, 255, 255, 0) 61.75%, rgba(0, 0, 0, 0.8) 99.82%);
+}
+
+.main-carousel-container{
+    margin: 100px;
+    margin-bottom: 200px;
+}
+
+.img-carousel-container1{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/v1737899438/arabian-ranches_a0x3vd.jpg");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.img-carousel-container2{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/v1737899446/arabian-ranches-ii_fiv3fb.jpg");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img-carousel-container3{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899449/downtown-dubai_dpruet.jpg");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img-carousel-container4{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899456/dubai-hills-estate_n7uz4o.jpg");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img-carousel-container5{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899470/dubai-marina_xwgmsf.png");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.img-carousel-container6{
+    background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899476/emirates-living_mnt8pf.jpg");
+    width: 391px;
+    height: 552px;
+    background-size: cover;
+    top: 1909px;
+    left: 321px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+h3{
+    font-family: "Martel Sans";
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 470px;
+}
+
+@media (max-width: 577px){
+    .carousel-heading{
+        font-family: "Open Sans";
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 30px;
+        color: #887C68;
+        text-align: center;
+    }
+    .carousel-image{
+        width: 250px;
+        height: 335.23px;
+        top: 3494.8px;
+        gap: 0px;
+        opacity: 0px;
+        background: linear-gradient(180.21deg, rgba(255, 255, 255, 0) 61.75%, rgba(0, 0, 0, 0.8) 99.82%);
+    }
+    
+    .main-carousel-container{
+        margin: 50px;
+        margin-bottom: 200px;
+    }
+    
+    .img-carousel-container1{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/v1737899438/arabian-ranches_a0x3vd.jpg");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    .img-carousel-container2{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/v1737899446/arabian-ranches-ii_fiv3fb.jpg");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .img-carousel-container3{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899449/downtown-dubai_dpruet.jpg");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .img-carousel-container4{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899456/dubai-hills-estate_n7uz4o.jpg");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .img-carousel-container5{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899470/dubai-marina_xwgmsf.png");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    
+    .img-carousel-container6{
+        background-image: url("https://res.cloudinary.com/dg3csk2jz/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1737899476/emirates-living_mnt8pf.jpg");
+        width: 391px;
+        height: 552px;
+        background-size: cover;
+        top: 1909px;
+        left: 321px;
+        gap: 0px;
+        opacity: 0px;
+    
+    }
+    h3{
+        font-family: "Martel Sans";
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 32px;
+        text-align: center;
+        color: #ffffff;
+        margin-top: 470px;
+    }
+    
+    @media (max-width: 577px){
+        
+    }
+}

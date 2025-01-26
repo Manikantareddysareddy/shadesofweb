@@ -1,0 +1,147 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-heading{
+    font-family: "Martel Sans";
+    font-size: 28px;
+    font-weight: 600;
+    align-self: center;
+    color: #887C68;
+    text-align: center;
+    width: 50%;
+    line-height: 51.07px;
+
+}
+.card-container{
+    width: 320px;
+    height: 472px;
+    left: 20px;
+    top: 202px;
+    margin: 30px;
+    box-shadow: 12px 17px 60px 0px #00000040;
+
+}
+.all-card-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.sub-para{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 18px;
+    color: #887C68;
+    line-height: 24px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    text-align: justify;
+}
+.sub-heading{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 22px;
+    padding-top: 15px;
+    text-align: center;
+    color: #887C68;
+    line-height: 29.96px;
+}
+.home-image{
+    height: 249.68px;
+    width: 320px;
+    top: 202px;
+    left: 20px;
+}
+.card-heading{
+    width: 320px;
+    height: 60.55px;
+    top: 606.45px;
+    left: 20px;
+    background-color: #F8F8F8;
+}
+.card-para{
+    width: 280px;
+    height: 150.55px;
+    text-align: center;
+    top: 479.45px;
+    left: 39.64px;
+    
+}
+
+@media (max-width:577px){
+    .main-container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .main-heading{
+        font-family: "Martel Sans";
+        font-size: 28px;
+        font-weight: 600;
+        align-self: center;
+        color: #887C68;
+        text-align: center;
+        width: 50%;
+        line-height: 51.07px;
+    
+    }
+    .card-container{
+        width: 320px;
+        height: 472px;
+        left: 20px;
+        top: 202px;
+        margin: 30px;
+        box-shadow: 12px 17px 60px 0px #00000040;
+    
+    }
+    .all-card-container{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .sub-para{
+        font-family: "Open Sans";
+        font-weight: 400;
+        font-size: 18px;
+        color: #887C68;
+        line-height: 24px;
+        padding-left: 15px;
+        padding-bottom: 5px;
+        text-align: justify;
+    }
+    .sub-heading{
+        font-family: "Open Sans";
+        font-weight: 400;
+        font-size: 22px;
+        padding-top: 15px;
+        text-align: center;
+        color: #887C68;
+        line-height: 29.96px;
+    }
+    .home-image{
+        height: 249.68px;
+        width: 320px;
+        top: 202px;
+        left: 20px;
+    }
+    .card-heading{
+        width: 320px;
+        height: 60.55px;
+        top: 606.45px;
+        left: 20px;
+        background-color: #F8F8F8;
+    }
+    .card-para{
+        width: 280px;
+        height: 150.55px;
+        text-align: center;
+        top: 479.45px;
+        left: 39.64px;
+        
+    }
+}
